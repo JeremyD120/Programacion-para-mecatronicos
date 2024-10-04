@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727451535 source:d:\pc\escritorio\itla 2023\sexto trimestre\programacion para mecatronicos\repositorio\programacion-para-mecatronicos\ejercicios cap 2\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
